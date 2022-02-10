@@ -2,7 +2,7 @@
 
 
 <img align='right' src="https://media2.giphy.com/media/biswiZXMZOiOtlozZy/source.gif" width="230">
-<em>B.Sc. Computer Science Student @ <a href="https://www5.usp.br/">University of São Paulo</a> <img src="https://www.modernaeducacional.com/wp-content/uploads/2020/03/usp-logo-azul.jpg" width="30"></br>
+<em>B.Sc. Computer Science Student @ <a href="https://www5.usp.br/">University of São Paulo</a> <img src="https://escolaeducacao.com.br/wp-content/uploads/2018/09/usp-curso-de-historia.jpg" width="30"></br>
 </em>
 
 [![Linkedin: brenoslivio](https://img.shields.io/badge/-brenoslivio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoslivio/)](https://www.linkedin.com/in/brenoslivio/)

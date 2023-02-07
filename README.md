@@ -1,4 +1,4 @@
-### Hello, there! I'm Breno Lívio :)
+### Hello there! I'm Breno Lívio :)
 
 
 <img align='right' src="https://media2.giphy.com/media/biswiZXMZOiOtlozZy/source.gif" width="230">

@@ -22,7 +22,7 @@ data breno;
 strcpy(breno.name, "Breno Lívio Silva de Almeida");
 strcpy(breno.pronouns, "he/him");
 strcpy(breno.country, "Brazil");
-strcpy(breno.doing, "Studying Biostatistics, Probability Theory and Data Science");
+strcpy(breno.doing, "Studying Data Science and Bioinformatics");
 strcpy(breno.fact, "Animals are my friends and I don't eat my friends.");
 
 ```

@@ -1,5 +1,4 @@
-### Hello there! I'm Breno Lívio :)
-
+Hello there! I'm Breno Lívio :)
 
 <img align='right' src="https://media2.giphy.com/media/biswiZXMZOiOtlozZy/source.gif" width="230">
 <em>B.Sc. Computer Science Student @ <a href="https://www5.usp.br/">University of São Paulo</a> <img src="https://escolaeducacao.com.br/wp-content/uploads/2018/09/usp-curso-de-historia.jpg" width="30"></br>

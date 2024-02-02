@@ -1,32 +1,22 @@
-Hello there! I'm Breno Lívio :)
+Hello there! I'm Breno Livio :)
 
 <img align='right' src="https://media2.giphy.com/media/biswiZXMZOiOtlozZy/source.gif" width="230">
-<em>B.Sc. Computer Science Student @ <a href="https://www5.usp.br/">University of São Paulo</a> <img src="https://escolaeducacao.com.br/wp-content/uploads/2018/09/usp-curso-de-historia.jpg" width="30"></br>
+<em>Bachelor's degree in Computer Science @ <a href="https://www5.usp.br/">University of São Paulo</a> <img src="https://escolaeducacao.com.br/wp-content/uploads/2018/09/usp-curso-de-historia.jpg" width="30"></br>
 </em>
 
 [![Linkedin: brenoslivio](https://img.shields.io/badge/-brenoslivio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenoslivio/)](https://www.linkedin.com/in/brenoslivio/)
 [![GitHub brenoslivio](https://img.shields.io/github/followers/brenoslivio?label=follow&style=social)](https://github.com/brenoslivio)
 
-```C
-typedef struct {
-        char name[64]; 
-        char pronouns[64];
-        char country[64];
-        char doing[1024];
-        char fact[256];
-} data;
+```bash
+#!/bin/bash
 
-data breno;
-
-strcpy(breno.name, "Breno Lívio Silva de Almeida");
-strcpy(breno.pronouns, "he/him");
-strcpy(breno.country, "Brazil");
-strcpy(breno.doing, "Studying Data Science and Bioinformatics");
-strcpy(breno.fact, "Animals are my friends and I don't eat my friends.");
-
+# User information
+name="Breno Livio Silva de Almeida"
+pronouns="he/him"
+country="Brazil"
+doing="Studying Bioinformatics and Machine Learning"
+fact="Animals are my friends, and I don't eat my friends."
 ```
-
-
 
 ## Languages and Tools:
 <p align="center">

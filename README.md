@@ -21,4 +21,4 @@ fact="Animals are my friends, and I don't eat my friends."
 
 I'm probably researching and coding right now, listening to some "avant-garde" things:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317sjwzuvouoyzkmp44a7njrfdyy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8e4eb1)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317sjwzuvouoyzkmp44a7njrfdyy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8e4eb1)](https://www.youtube.com/watch?v=mOHCV-QO5HA)

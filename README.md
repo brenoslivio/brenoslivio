@@ -17,15 +17,8 @@ country="Brazil"
 doing="Studying Bioinformatics and Machine Learning"
 fact="Animals are my friends, and I don't eat my friends."
 ```
+---
 
-## Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C/C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.stack.imgur.com/zHFFO.png" alt="LaTeX" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-</p>
+I'm probably researching and coding right now, listening to some "avant-garde" things:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317sjwzuvouoyzkmp44a7njrfdyy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=8e4eb1)](https://github.com/kittinan/spotify-github-profile)
